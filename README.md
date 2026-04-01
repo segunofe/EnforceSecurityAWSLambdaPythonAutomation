@@ -5,7 +5,8 @@
 This project automatically detects and terminates EC2 instances with SSH open to the public, using a Python Lambda function triggered by EventBridge.
 
 ---
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/86f5aa64-7646-4ca0-8960-6e886c6a66c5" />
+<img width="1376" height="768" alt="AUTOMATED AWS SECURITY" src="https://github.com/user-attachments/assets/03def0d5-8565-4ca2-bcfe-c6d6d9c6808a" />
+
 
   
    https://youtu.be/V0LfQPkyyM0
