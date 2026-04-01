@@ -1,4 +1,4 @@
-# Automate Security Compliance in AWS using Python & Lambda
+# Enforce Security Compliance in AWS using Python & Lambda in an automated way 
 
 ## Overview
 
