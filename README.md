@@ -6,7 +6,7 @@ This project automatically detects and terminates EC2 instances with SSH open to
 
 ---
 <img width="1376" height="768" alt="python AWS Lambda EventBridge" src="https://github.com/user-attachments/assets/18ba6be0-a897-4ab7-add5-3df91c41d53a" />
-  ```bash
+  ```
    https://youtu.be/V0LfQPkyyM0
    ```
 
