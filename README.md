@@ -6,9 +6,9 @@ This project automatically detects and terminates EC2 instances with SSH open to
 
 ---
 <img width="1376" height="768" alt="python AWS Lambda EventBridge" src="https://github.com/user-attachments/assets/18ba6be0-a897-4ab7-add5-3df91c41d53a" />
-  ```
+  
    https://youtu.be/V0LfQPkyyM0
-   ```
+   
 
 
 ## Step 1: Write the Python Lambda Function
@@ -101,9 +101,6 @@ The original rule used **AWS API call via CloudTrail**, which requires an active
 
 ---
 ## Watch it here on YouTube
-
-  ```bash
-   https://youtu.be/V0LfQPkyyM0
-   ```
 https://youtu.be/V0LfQPkyyM0
+
 ### Python Code Credit to Azeez Salu
